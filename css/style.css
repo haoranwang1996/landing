@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Lora&display=swap");
+
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Lovers+Quarrel&display=swap');
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/card.css");
+
+@import url("components/banner.css");
+
+@import url("components/abs.css");
+
+@import url("components/sabs.css");
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px auto;
+}
+
+h1, h2{
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+
+}
+
+a:link { text-decoration: none}
+a:active { text-decoration:blink}
+a:hover { text-decoration:underline;color: red}
+a:visited { text-decoration: none;color: white}
+
+h1, h3{
+		text-align: center;
+}
+.ns{
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 30px;
+
+}
+
+.d{
+	font-family: 'Lovers Quarrel', cursive;
+	font-size: 66px;
+
+}
+
+.typeform-widget{
+	margin: 10px auto;
+}
